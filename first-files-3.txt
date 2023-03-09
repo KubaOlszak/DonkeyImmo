@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 c moi
+=======
+modif par Kuba
+modif fays
+>>>>>>> 52d18e240a75b1ed6135c774d52b24776535e74e
+3eme essai
