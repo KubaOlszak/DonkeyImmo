@@ -1,0 +1,8 @@
+mon new comment
+<<<<<<< HEAD
+c moi yanice
+=======
+salu poto
+>>>>>>> d37efd67af2c61a338c6b354504ad9053ef87bfd
+c yanice
+new message pierre
