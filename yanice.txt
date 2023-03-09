@@ -1,5 +1,9 @@
 c yanice
 <<<<<<< HEAD
+<<<<<<< HEAD
 oeoe
 =======
 >>>>>>> 79889c9 (new maj)
+=======
+oeoe
+>>>>>>> 8f04f21 (oeoe)
